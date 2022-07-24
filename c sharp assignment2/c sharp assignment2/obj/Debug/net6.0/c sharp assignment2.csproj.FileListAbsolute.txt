@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\c sharp assignment2\c sharp assignment2\bin\Debug\net6.0\c sharp assignment2.exe
+C:\Users\HP\Desktop\c sharp assignment2\c sharp assignment2\bin\Debug\net6.0\c sharp assignment2.deps.json
+C:\Users\HP\Desktop\c sharp assignment2\c sharp assignment2\bin\Debug\net6.0\c sharp assignment2.runtimeconfig.json
+C:\Users\HP\Desktop\c sharp assignment2\c sharp assignment2\bin\Debug\net6.0\c sharp assignment2.dll
+C:\Users\HP\Desktop\c sharp assignment2\c sharp assignment2\bin\Debug\net6.0\c sharp assignment2.pdb
+C:\Users\HP\Desktop\c sharp assignment2\c sharp assignment2\obj\Debug\net6.0\c sharp assignment2.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\c sharp assignment2\c sharp assignment2\obj\Debug\net6.0\c sharp assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\c sharp assignment2\c sharp assignment2\obj\Debug\net6.0\c sharp assignment2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\c sharp assignment2\c sharp assignment2\obj\Debug\net6.0\c sharp assignment2.AssemblyInfo.cs
+C:\Users\HP\Desktop\c sharp assignment2\c sharp assignment2\obj\Debug\net6.0\c sharp assignment2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c sharp assignment2\c sharp assignment2\obj\Debug\net6.0\c sharp assignment2.dll
+C:\Users\HP\Desktop\c sharp assignment2\c sharp assignment2\obj\Debug\net6.0\refint\c sharp assignment2.dll
+C:\Users\HP\Desktop\c sharp assignment2\c sharp assignment2\obj\Debug\net6.0\c sharp assignment2.pdb
+C:\Users\HP\Desktop\c sharp assignment2\c sharp assignment2\obj\Debug\net6.0\c sharp assignment2.genruntimeconfig.cache
+C:\Users\HP\Desktop\c sharp assignment2\c sharp assignment2\obj\Debug\net6.0\ref\c sharp assignment2.dll
